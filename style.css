@@ -4,6 +4,7 @@
   grid-template-rows: repeat(2, 200px);
   grid-gap: 5px;
   height: 100vh;
+  grid-auto-columns: 50px 100px;
 }
 
 .item{
