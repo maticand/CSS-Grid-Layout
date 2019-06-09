@@ -5,51 +5,51 @@ body{
 .post-list{
   display: grid;
   grid-template-columns:repeat(3, minmax(100px,293px));
-  justify-content: center;
   grid-gap: 28px;
+  justify-content: center;
   margin-top: 50px;
 }
 .post{
   cursor: pointer;
-  position: relative;
   display: block;
+  position: relative;
 }
 .post-image{
   margin: 0;
 }
 .post-image img{
-  width: 100%;
   vertical-align: top;
+  width: 100%;
 }
 .post-overlay{
-  background: rgba(0, 0, 0, 0.4);
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  top: 0;
-  display: none;
   align-items: center;
-  justify-content: center;
+  background: rgba(0, 0, 0, 0.4);
+  bottom: 0;
   color: white;
+  display: none;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
   text-align: center;
 }
 .post:hover .post-overlay{
   display: flex;
 }
 .post-likes, .post-comments{
-	 width: 80px;
-	 margin: 5px;
-	 font-weight: bold;
-	 text-align: center;
    display: inline-block;
+	 font-weight: bold;
+   margin: 5px;
+	 text-align: center;
+   width: 80px;
 }
 /************************/
 
 .profile-data{
+  align-items: center;
   display: grid;
   grid-template-columns: 1fr 1.5fr;
-  align-items: center;
   }
 .profile{
   cursor: pointer;
@@ -61,32 +61,32 @@ body{
   margin: 0;
 }
 .profile-overlay{
-  background: rgba(0, 0, 0, 0.4);
-  position:absolute;
-  display: none;
   align-items: center;
-  justify-content: center;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 150px;
   color: white;
+  display: none;
+  height: 150px;
+  justify-content: center;
+  position:absolute;
   text-align: center;
   width: 150px;
-  height: 150px;
-  border-radius: 150px;
 }
 .profile:hover .profile-overlay{
   display: flex;
 }
 .profile-image img{
-  width: 150px;
-  height: 150px;
   border-radius: 150px;
+  height: 150px;
+  width: 150px;
 }
 
 .information{
   display: grid;
 }
 .information-data{
-  display: flex;
   align-items: center;
+  display: flex;
 }
 ul{
   list-style: none;
@@ -94,30 +94,30 @@ ul{
   padding: 0;
 }
 .data-follow{
-  margin-left: 20px;
-  text-decoration: none;
-  padding: .4em 1.5em;
-  font-weight: bold;
-  color: #FFFFFF;
   background: #3997F0;
   border-radius: 4px;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin-left: 20px;
+  padding: .4em 1.5em;
+  text-decoration: none;
 }
 .data-suggest{
-  margin-left: 10px;
-  text-decoration: none;
-  padding: .4em 1em;
-  font-weight: bold;
-  color: #FFFFFF;
   background: #3997F0;
   border-radius: 4px;
+  color: #FFFFFF;
+  font-weight: bold;
+  margin-left: 10px;
+  padding: .4em 1em;
+  text-decoration: none;
 }
 .data-report{
-  margin-left: 10px;
-  text-decoration: none;
-  padding: .4em;
+  border-radius: 4px;
   color: #262626;
   font-weight: bold;
-  border-radius: 4px;
+  margin-left: 10px;
+  padding: .4em;
+  text-decoration: none;
 }
 .social-followers{
   margin-left: 30px;
