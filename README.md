@@ -237,7 +237,8 @@ Estos son los valores que se pueden usar:
 
 ## Enlaces de Interés
 * [A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/#prop-grid-column-row-gap)
-* [Grid Garden,](https://cssgridgarden.com/#es)
+* [Grid Garden](https://cssgridgarden.com/#es)
+* [CSS Grid Layout](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout)
 <div align="right">
   <small><a href="#tabla-de-contenido">volver al inicio</a></small>
 </div>
