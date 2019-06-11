@@ -239,7 +239,7 @@ Estos son los valores que se pueden usar:
 * [A Complete Guide to CSS Grid Layout](http://chris.house/blog/a-complete-guide-css-grid-layout/#prop-grid-column-row-gap)
 * [Grid Garden](https://cssgridgarden.com/#es)
 * [CSS Grid Layout](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout)
-* [CSS Grid Layout](https://gridbyexample.com/examples/)
+* [Grid by Example](https://gridbyexample.com/examples/)
 
 <div align="right">
   <small><a href="#tabla-de-contenido">volver al inicio</a></small>
