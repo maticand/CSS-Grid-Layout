@@ -3,9 +3,9 @@
 **CSS Grid Layout** es un módulo de maquetación CSS que nos permite generar layouts en nuestras páginas web de una forma más eficiente, está basado en un sistema de grillas (filas y columnas) y además es soportado por todos los navegadores modernos.
 
 ## Tabla de Contenido
-- [Conceptos Fundamentales](#conceptos-fundamentales)
+- [Conceptos Fundamentales](#conceptos-fundamentales-sobre-css-grid-layout)
 - [Propiedades](#propiedades)
-- [Áreas](#Áreas)
+- [Áreas](#areas)
 - [Nombre a las líneas](#nombre-a-las-líneas)
 - [Grid Implícito](#grid-implícito)
 - [Alinear Grid Items](#alinear-grid-items)
