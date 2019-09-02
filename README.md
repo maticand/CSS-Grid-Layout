@@ -5,7 +5,7 @@
 ## Tabla de Contenido
 - [Conceptos Fundamentales](#conceptos-fundamentales-sobre-css-grid-layout)
 - [Propiedades](#propiedades)
-- [Áreas](#areas)
+- [Áreas](#áreas)
 - [Nombre a las líneas](#nombre-a-las-líneas)
 - [Grid Implícito](#grid-implícito)
 - [Alinear Grid Items](#alinear-grid-items)
